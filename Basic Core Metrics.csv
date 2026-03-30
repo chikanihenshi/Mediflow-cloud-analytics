@@ -1,0 +1,7 @@
+"department","patient_count","avg_length_of_stay","avg_cost_per_patient"
+"Emergency","155","11.81","42066.2"
+"Neurology","170","11.78","42215.86"
+"Orthopedics","178","11.47","42277.21"
+"Oncology","152","11.38","43364.61"
+"Cardiology","172","11.23","42186.61"
+"General Surgery","173","10.61","41730.45"
